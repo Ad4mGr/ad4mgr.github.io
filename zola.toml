@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://127.0.0.1:1111"
+base_url = "http://adam-geurchi.github.io"
 title = "Adam's Site"
 description = "Adam's personal corner of the internet"
 
