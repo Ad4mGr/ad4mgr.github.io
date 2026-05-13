@@ -74,7 +74,7 @@ button:hover,.btn:hover{background:var(--green);color:var(--bg)}
 .cursor::after{content:'█';color:var(--green);animation:blink 1s step-end infinite;margin-left:2px}
 
 /* light mode override */
-html.light{--bg:#fdf6e3;--fg:#4a4a4a;--green:#268bd2;--cyan:#2aa198;--orange:#cb4b16;--red:#dc322f;--gray:#839496;--dim:#eee8d5}
+html.light{--bg:#fdf6e3;--fg:#4a4a4a;--green:#268bd2;--cyan:#2aa198;--orange:#cb4b16;--red:#dc322f;--gray:#657b83;--dim:#eee8d5}
 html.light a:visited{color:#6c71c4}
 html.light input,html.light textarea{--dim:#f5f0e0}
 html.light nav a:hover,html.light nav a.active{background:rgba(38,139,210,0.08)}
@@ -90,8 +90,10 @@ html.light ::selection{background:rgba(38,139,210,0.2)}
     <style>
 html.light{background:var(--bg);color:var(--fg)}
 html.dark{background:var(--bg);color:var(--fg)}
-html.dark img[src$=".svg"],html.dark nav svg,html.dark .theme svg,html.dark footer svg{filter:invert(1)}
-html.light img[src$=".svg"],html.light nav svg,html.light .theme svg,html.light footer svg{filter:none}
+html.dark nav svg,html.dark footer svg{color:#fff;fill:#fff}
+html.light nav svg,html.light footer svg{color:var(--fg);fill:var(--fg)}
+html.dark .theme svg{color:#fff;fill:#fff}
+html.light .theme svg{color:#000;fill:#000}
     </style>
     <meta name="theme-color" id="tc"><script>(function(){var m=matchMedia('(prefers-color-scheme:dark)'),t=localStorage.theme||(m.matches?'dark':'light'),h=document.documentElement,c=document.getElementById('tc');h.className=t;function u(){c.content=getComputedStyle(h).getPropertyValue('--bg')}u();window.T=function(){t=t==='dark'?'light':'dark';localStorage.theme=t;h.className=t;u()}})()</script>
     {% block head_extra %}{% endblock head_extra %}

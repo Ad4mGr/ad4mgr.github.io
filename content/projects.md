@@ -25,6 +25,7 @@ Working on products that solve real problems for Tunisians. Details dropping as 
 A minimal, terminal-themed personal website built with [Zola](https://www.getzola.org/) and the [Zap](https://github.com/jimmyff/zola-zap) theme. Fast, lightweight, no JavaScript bloat. My corner of the internet.
 ### DevMirror
 - [DevMirror](https://devmirror.pages.dev/) - Real data on Tunisia's tech market. No HR fluff. (RAW SALARIES • ANONYMOUS REVIEWS • INSIDER INTEL)
+- [Buddy] - Accountability Buddy (Discord productivity bot)
 ---
 
 
