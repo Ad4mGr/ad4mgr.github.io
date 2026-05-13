@@ -25,7 +25,7 @@ icons = ["home", "chat", "idea", "color-palette", "search", "light", "asleep", "
 social_links = [
   { url = "https://x.com/adamG2", name = "Twitter", icon = "twitter.svg" },
   { url = "https://linkedin.com/in/adam-guerchy", name = "LinkedIn", icon = "linkedin.svg" },
-  { url = "https://github.com/adam-guerchi", name = "GitHub", icon = "terminal.svg" },
+  { url = "https://github.com/ad4mgr", name = "GitHub", icon = "terminal.svg" },
 ]
 
 menu_links = [
