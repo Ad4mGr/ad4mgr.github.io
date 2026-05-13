@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Adam Guerchi - tunisia</title>
-      <link>https://ad4mgr.github.io</link>
+      <link>https://ad4mgr.github.io/mysite</link>
       <description>building things for Tunisia&#x27;s tech ecosystem</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://ad4mgr.github.io/tags/tunisia/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://ad4mgr.github.io/mysite/tags/tunisia/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Why Tunisia Needs More Shippers</title>
           <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
           <author>Unknown</author>
-          <link>https://ad4mgr.github.io/posts/why-tunisia-needs-more-shippers/</link>
-          <guid>https://ad4mgr.github.io/posts/why-tunisia-needs-more-shippers/</guid>
-          <description xml:base="https://ad4mgr.github.io/posts/why-tunisia-needs-more-shippers/">&lt;p&gt;Tunisia has the talent. What we need is more people who actually ship.&lt;&#x2F;p&gt;</description>
+          <link>https://ad4mgr.github.io/mysite/posts/why-tunisia-needs-more-shippers/</link>
+          <guid>https://ad4mgr.github.io/mysite/posts/why-tunisia-needs-more-shippers/</guid>
+          <description xml:base="https://ad4mgr.github.io/mysite/posts/why-tunisia-needs-more-shippers/">&lt;p&gt;Tunisia has the talent. What we need is more people who actually ship.&lt;&#x2F;p&gt;</description>
       </item>
     </channel>
 </rss>

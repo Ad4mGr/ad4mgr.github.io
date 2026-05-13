@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://ad4mgr.github.io/</loc>
+        <loc>https://ad4mgr.github.io/mysite/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/about/</loc>
+        <loc>https://ad4mgr.github.io/mysite/about/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/bookmarks/</loc>
+        <loc>https://ad4mgr.github.io/mysite/bookmarks/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/now/</loc>
+        <loc>https://ad4mgr.github.io/mysite/now/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/posts/</loc>
+        <loc>https://ad4mgr.github.io/mysite/posts/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/posts/why-im-building-this/</loc>
+        <loc>https://ad4mgr.github.io/mysite/posts/why-im-building-this/</loc>
         <lastmod>2026-05-01</lastmod>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/posts/why-tunisia-needs-more-shippers/</loc>
+        <loc>https://ad4mgr.github.io/mysite/posts/why-tunisia-needs-more-shippers/</loc>
         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/projects/</loc>
+        <loc>https://ad4mgr.github.io/mysite/projects/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/reading/</loc>
+        <loc>https://ad4mgr.github.io/mysite/reading/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/search/</loc>
+        <loc>https://ad4mgr.github.io/mysite/search/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/tags/</loc>
+        <loc>https://ad4mgr.github.io/mysite/tags/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/tags/building/</loc>
+        <loc>https://ad4mgr.github.io/mysite/tags/building/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/tags/intro/</loc>
+        <loc>https://ad4mgr.github.io/mysite/tags/intro/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/tags/personal/</loc>
+        <loc>https://ad4mgr.github.io/mysite/tags/personal/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/tags/tech-ecosystem/</loc>
+        <loc>https://ad4mgr.github.io/mysite/tags/tech-ecosystem/</loc>
     </url>
     <url>
-        <loc>https://ad4mgr.github.io/tags/tunisia/</loc>
+        <loc>https://ad4mgr.github.io/mysite/tags/tunisia/</loc>
     </url>
 </urlset>
