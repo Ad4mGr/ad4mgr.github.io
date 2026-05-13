@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Adam Guerchi - tunisia</title>
+      <link>http://adam-guerchi.github.io</link>
+      <description>building things for Tunisia&#x27;s tech ecosystem</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="http://adam-guerchi.github.io/tags/tunisia/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Why Tunisia Needs More Shippers</title>
+          <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>http://adam-guerchi.github.io/posts/why-tunisia-needs-more-shippers/</link>
+          <guid>http://adam-guerchi.github.io/posts/why-tunisia-needs-more-shippers/</guid>
+          <description xml:base="http://adam-guerchi.github.io/posts/why-tunisia-needs-more-shippers/">&lt;p&gt;Tunisia has the talent. What we need is more people who actually ship.&lt;&#x2F;p&gt;</description>
+      </item>
+    </channel>
+</rss>

@@ -12,16 +12,17 @@ A curated collection of sites, tools, and resources I find useful or interesting
 
 - [GitHub](https://github.com) — Where code lives
 - [Zola](https://www.getzola.org/) — The static site generator powering this site
-- [VS Code](https://code.visualstudio.com/) — Code editor
+- [Zed](https://zed.dev/) — The editor I use
 - [DevDocs](https://devdocs.io/) — Unified API documentation browser
 - [Regex101](https://regex101.com/) — Regex tester & debugger
 
 ## Learning
 
 - [Hacker News](https://news.ycombinator.com/) — Tech news aggregator
-- [Lobsters](https://lobste.rs/) — Computing-focused community
+- [Reddit](https://www.reddit.com/) — Community-driven content discovery
 - [The Missing Semester (MIT)](https://missing.csail.mit.edu/) — The CS topics they don't teach in school
 - [Teach Yourself CS](https://teachyourselfcs.com/) — CS self-study guide
+- [Paul Graham](https://paulgraham.com/) — Beautiful essays on startup & technology
 
 ## Design & Inspiration
 
@@ -34,9 +35,12 @@ A curated collection of sites, tools, and resources I find useful or interesting
 - [Julia Evans](https://jvns.ca/) — Zines & posts about computing
 - [Drew DeVault](https://drewdevault.com/) — Open source & systems programming
 - [Dan Luu](https://danluu.com/) — Engineering deep dives
-
+- [Gwern](https://gwern.net/) — Technical writing & computer science
+- [Ludwig](https://ludwigabap.com/) - Tech blog
+- [Paul Graham](https://paulgraham.com/) — Beautiful essays on startup & technology
 ## Utilities
 
 - [TinyPNG](https://tinypng.com/) — Image compression
 - [Excalidraw](https://excalidraw.com/) — Virtual whiteboard for sketching
 - [Carbon](https://carbon.now.sh/) — Create beautiful code screenshots
+- [Flameshot](https://flameshot.org/) — Screenshot utility with editing tools

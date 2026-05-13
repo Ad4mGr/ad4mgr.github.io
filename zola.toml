@@ -1,19 +1,13 @@
-# The URL the site will be built for
 base_url = "http://adam-guerchi.github.io"
-title = "Adam's Site"
-description = "Adam's personal corner of the internet"
+title = "Adam Guerchi"
+description = "building things for Tunisia's tech ecosystem"
 
-# Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
-
-# Feeds
 generate_feeds = true
 feed_filenames = ["atom.xml", "rss.xml"]
 
 taxonomies = [{ name = "tags", feed = true }]
-
 theme = "zap"
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
 [markdown]
@@ -22,25 +16,26 @@ build_search_index = true
 index_format = "fuse_javascript"
 
 [extra]
-# SEO keywords
-keywords = "Adam, blog, personal site, bookmarks, dev"
+keywords = "Adam Guerchi, Tunisia, tech, business computing, blog, portfolio, research"
 favicon = "/icons/favicon.ico"
-# Icons
 inline_icons = true
 icon_path = "static/icons/"
-icons = ["home", "chat", "idea", "color-palette", "search", "light", "asleep", "rss", "twitter", "linkedin"]
+icons = ["home", "chat", "idea", "color-palette", "search", "light", "asleep", "rss", "twitter", "linkedin", "user", "terminal", "time", "book"]
 
-# Social links
 social_links = [
   { url = "https://x.com/adamG2", name = "Twitter", icon = "twitter.svg" },
   { url = "https://linkedin.com/in/adam-guerchy", name = "LinkedIn", icon = "linkedin.svg" },
+  { url = "https://github.com/adam-guerchi", name = "GitHub", icon = "terminal.svg" },
 ]
 
-# Navigation menu
 menu_links = [
   { url = "$BASE_URL/", name = "Home", icon = "home.svg" },
   { url = "$BASE_URL/posts/", name = "Posts", icon = "chat.svg" },
+  { url = "$BASE_URL/projects/", name = "Projects", icon = "terminal.svg" },
   { url = "$BASE_URL/bookmarks/", name = "Bookmarks", icon = "idea.svg" },
+  { url = "$BASE_URL/reading/", name = "Reading", icon = "book.svg" },
+  { url = "$BASE_URL/now/", name = "Now", icon = "time.svg" },
+  { url = "$BASE_URL/about/", name = "About", icon = "user.svg" },
   { url = "$BASE_URL/tags/", name = "Tags", icon = "color-palette.svg" },
   { url = "$BASE_URL/search/", name = "Search", icon = "search.svg" },
 ]
