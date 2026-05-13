@@ -15,7 +15,6 @@ A curated collection of sites, tools, and resources I find useful or interesting
 - [Zed](https://zed.dev/) — The editor I use
 - [DevDocs](https://devdocs.io/) — Unified API documentation browser
 - [Regex101](https://regex101.com/) — Regex tester & debugger
-
 ## Learning
 
 - [Hacker News](https://news.ycombinator.com/) — Tech news aggregator
@@ -23,7 +22,9 @@ A curated collection of sites, tools, and resources I find useful or interesting
 - [The Missing Semester (MIT)](https://missing.csail.mit.edu/) — The CS topics they don't teach in school
 - [Teach Yourself CS](https://teachyourselfcs.com/) — CS self-study guide
 - [Paul Graham](https://paulgraham.com/) — Beautiful essays on startup & technology
-
+- [Bootdev](https://boot.dev/) — Learn to code by building real-world projects
+- [NeetCode](https://neetcode.io/) — Pre-built solutions for coding problems
+- [Anthony Fu](https://antfu.me/) — Vue.js & TypeScript expert
 ## Design & Inspiration
 
 - [Minimal Gallery](https://minimal.gallery/) — Minimal website showcase
@@ -38,6 +39,7 @@ A curated collection of sites, tools, and resources I find useful or interesting
 - [Gwern](https://gwern.net/) — Technical writing & computer science
 - [Ludwig](https://ludwigabap.com/) - Tech blog
 - [Paul Graham](https://paulgraham.com/) — Beautiful essays on startup & technology
+
 ## Utilities
 
 - [TinyPNG](https://tinypng.com/) — Image compression
