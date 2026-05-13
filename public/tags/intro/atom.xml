@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Adam Guerchi - intro</title>
     <subtitle>building things for Tunisia&#x27;s tech ecosystem</subtitle>
-    <link rel="self" type="application/atom+xml" href="http://adam-guerchi.github.io/tags/intro/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://adam-guerchi.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://ad4mgr.github.io/tags/intro/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://ad4mgr.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2026-05-01T00:00:00+00:00</updated>
-    <id>http://adam-guerchi.github.io/tags/intro/atom.xml</id>
+    <id>https://ad4mgr.github.io/tags/intro/atom.xml</id>
     <entry xml:lang="en">
         <title>Why I&#x27;m Building This</title>
         <published>2026-05-01T00:00:00+00:00</published>
@@ -20,8 +20,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://adam-guerchi.github.io/posts/why-im-building-this/"/>
-        <id>http://adam-guerchi.github.io/posts/why-im-building-this/</id>
+        <link rel="alternate" type="text/html" href="https://ad4mgr.github.io/posts/why-im-building-this/"/>
+        <id>https://ad4mgr.github.io/posts/why-im-building-this/</id>
         
         <summary type="html">&lt;p&gt;A personal site is more than a portfolio — it&#x27;s a place to think out loud, document the journey, and invite others along.&lt;&#x2F;p&gt;</summary>
         

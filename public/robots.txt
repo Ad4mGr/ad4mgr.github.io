@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: http://adam-guerchi.github.io/sitemap.xml
+Sitemap: https://ad4mgr.github.io/sitemap.xml

@@ -15,7 +15,7 @@
     {% block rss -%}
     <link rel="alternate" type="application/atom+xml" title="{{config.title}}" href="{{ get_url(path='atom.xml',trailing_slash=false)|safe}}">
     {% endblock rss -%}
-    {% if config.extra.favicon %}<link rel="icon" href="{{ config.extra.favicon }}">{% endif %}
+    {% if config.extra.favicon %}<link rel="icon" href="{{ get_url(path=config.extra.favicon, trailing_slash=false) }}">{% endif %}
     {% set nav_count = config.extra.menu_links | length -%}
     {% if nav_count >= 6 -%}
     {% set_global items_per_row = ((nav_count + 1) / 2) | round -%}
